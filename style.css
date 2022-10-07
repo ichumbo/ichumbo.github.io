@@ -662,6 +662,11 @@ footer span a:hover {
         content: "Alguns Projetos";
         display: none;
     }
+    .teams .title::before {
+        background: #D2001A;
+        position: absolute;
+        top: 47px;
+    }
     .max-width {
         max-width: 800px;
         padding: 0 50px;
