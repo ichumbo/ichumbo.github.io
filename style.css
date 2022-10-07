@@ -658,6 +658,13 @@ footer span a:hover {
 }
 
 @media (max-width: 947px) {
+    .teams .title::after {
+        content: "Alguns Projetos";
+        display: none;
+    }
+    .teams .title::before {
+        display: none;
+    }
     .max-width {
         max-width: 800px;
         padding: 0 50px;
