@@ -198,7 +198,6 @@ section .title::after {
     font-size: 20px;
     background: #fff;
     color: #D2001A;
-    padding: 5px;
     transform: translateX(-50%);
 }
 
