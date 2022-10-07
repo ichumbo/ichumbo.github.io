@@ -663,7 +663,7 @@ footer span a:hover {
         display: none;
     }
     .teams .title::before {
-        display: none;
+        position: relative;
     }
     .max-width {
         max-width: 800px;
