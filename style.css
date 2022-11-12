@@ -126,6 +126,7 @@ html {
 .home .home-content a:hover {
     color: #D2001A;
     background: none;
+    transition: 0.3s ease;
 }
 
 
